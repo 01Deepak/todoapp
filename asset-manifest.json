@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/01Deepak/todoapp/static/css/main.073c9b0a.css",
+    "main.js": "/01Deepak/todoapp/static/js/main.d978c0be.js",
+    "static/js/787.39405f82.chunk.js": "/01Deepak/todoapp/static/js/787.39405f82.chunk.js",
+    "index.html": "/01Deepak/todoapp/index.html",
+    "main.073c9b0a.css.map": "/01Deepak/todoapp/static/css/main.073c9b0a.css.map",
+    "main.d978c0be.js.map": "/01Deepak/todoapp/static/js/main.d978c0be.js.map",
+    "787.39405f82.chunk.js.map": "/01Deepak/todoapp/static/js/787.39405f82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d978c0be.js"
+  ]
+}
